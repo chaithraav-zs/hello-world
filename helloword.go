@@ -1,17 +1,11 @@
-package awesomeProject
+package main
 
 import (
 	"fmt"
 	"math/rand"
 )
 
-package main
-
-import (
-"fmt"
-"math/rand"
-)
-
 func main() {
-	fmt.Println("My favorite number is", rand.Intn(10))
+	fmt.Println("hello-world")
+	fmt.Println("My favorite number is", rand.Intn(100))
 }
