@@ -14,9 +14,12 @@ func main() {
 	fmt.Println("My favorite number is", rand.Intn(100))
 }
 
-func hello() {
-	fmt.Println("print hello")
+func math(){
+	log.Println("nice to meet")
+	log.Println("nice to meet")
+	log.Println("nice to meet")
+	log.Println("nice to meet")
+	log.Println("nice to meet")
+	log.Println("nice to meet")
 }
-func hey() {
-	fmt.Println("heyyy")
-}
+
